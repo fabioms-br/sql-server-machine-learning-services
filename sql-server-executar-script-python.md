@@ -4,12 +4,12 @@
 
 Apresentamos como executar scripts em Python na consulta SQL utilizando o recurso SQL Server Machine Learning Services integrado na instância SQL Server.
 
-Conhecendo as seguintes técnicas:
-- Tipos de dados necessários para os parâmetros (NVARCHAR);
-- Importar bilblioteca Python (PACKAGE);
-- Converter variáveis em Data Frame (BRACKETS, PANDAS);
-- Exibir resultados em formato de tabela (DATAFRAME, WITH RESULT SETS);
-- Utilizar resultado de consulta SQL como parâmetro de entrada (@INPUT_DATA).
+Iremos conhecer as técnicas:
+🔹Tipos de dados necessários para os parâmetros (NVARCHAR);  
+🔹Importar bilblioteca Python (PACKAGE);  
+🔹Converter variáveis em Data Frame (BRACKETS, PANDAS);  
+🔹Exibir resultados em formato de tabela (DATAFRAME, WITH RESULT SETS);  
+🔹Utilizar resultado de consulta SQL como parâmetro de entrada (@INPUT_DATA).  
 
 ✅ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=sql-server-executar-script-python
