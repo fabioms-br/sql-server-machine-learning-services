@@ -1,4 +1,5 @@
 # SQL Server Machine Learning Services (R, Python)  
+Aprender scripts Python no SQL Server
 **Keywords:** Data Platform, Machine Learning Services, SQL Server, Machine Learning, SQL machine learning, SQL Server Big Data, SQL, Python  
 
 😉 Gostou do conteúdo? Inscreva-se também no canal: [http://www.fabioms.com.br/?url=youtube-subscribe](http://www.fabioms.com.br/?url=youtube-subscribe)
