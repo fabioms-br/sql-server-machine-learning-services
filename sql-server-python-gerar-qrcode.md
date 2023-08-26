@@ -1,6 +1,6 @@
 ## Como aprender Gerar QRCode com Python no SQL Server 
 
-<img src="https://fabioms.com.br/uploads/youtube/RaMY6AYJvAQ.png" alt="Como aprender Gerar QRCode com Python no SQL Server " title="SQL Server (R, Python)" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide52.png" alt="Como aprender Gerar QRCode com Python no SQL Server " title="SQL Server (R, Python)" width="320"/>
 
 Apresentamos nesse vídeo como gerar QRCode com a integração da linguagem Python no SQL Server utilizando o script T-SQL para inserir os dados em tabela e exibir no Power BI  
 

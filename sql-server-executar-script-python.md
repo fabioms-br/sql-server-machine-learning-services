@@ -1,6 +1,6 @@
-## Como Executar Script Python no SQL Server
+## Como executar script Python no SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/2z1GlTjfSiY.png" alt="Como Executar Script Python no SQL Server" title="SQL Server (R, Python)" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide33.png" alt="Como executar script Python no SQL Server" title="SQL Server (R, Python)" width="320"/>
 
 Apresentamos como executar scripts em Python na consulta SQL utilizando o recurso SQL Server Machine Learning Services integrado na instância SQL Server.
 

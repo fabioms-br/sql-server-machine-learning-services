@@ -7,7 +7,7 @@
 > **Youtube playlist**: [https://youtube.com/playlist?list=PL3CylihEP9USggVlKWvpQh1dh_-UGct13](https://youtube.com/playlist?list=PL3CylihEP9USggVlKWvpQh1dh_-UGct13)  
 
 
-## [1. Como Executar Script Python no SQL Server](/sql-server-executar-script-python.md)
+## [1. Como executar script Python no SQL Server](/sql-server-executar-script-python.md)
 Apresetnamos como executar scripts em Python na consulta SQL utilizando o recurso SQL Server Machine Learning Services integrado na instância SQL Server.
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-executar-script-python](http://www.fabioms.com.br/?url=sql-server-executar-script-python)  
